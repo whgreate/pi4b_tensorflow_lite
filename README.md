@@ -22,8 +22,7 @@
 - ``` virtualenv ENV ```
 - ``` source ENV/bin/activate ```
 
-- ``` pip install numpy ```
-- ``` pip install pillow ```
+- ``` pip install -r requirements.txt ```
 
 
 
